@@ -1,4 +1,4 @@
-Git Commands
+GitHub Commands
 ============
 
 ___
